@@ -348,10 +348,11 @@
                 <div class="col-lg-5 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <p class="mb-2">Follow me:</p>
                     <div class="d-flex pt-2">
-                        <a class="btn btn-square btn-primary me-2" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-primary me-2" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-primary me-2" href=""><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-square btn-primary me-2" href=""><i class="fab fa-linkedin-in"></i></a>
+                        <a class="btn btn-square btn-primary me-2" href="https://dribbble.com/mochi165" target="_blank"><i class="fab fa-dribbble"></i></a>
+                        <a class="btn btn-square btn-primary me-2" href="https://www.instagram.com/mochii_rf" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-square btn-primary me-2" href="https://www.youtube.com/channel/UC1sNK7kS6uldDm0CIiML1iw" target="_blank"><i class="fab fa-youtube"></i></a>
+                        <a class="btn btn-square btn-primary me-2" href="https://www.linkedin.com/in/restu165/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="btn btn-square btn-primary me-2" href="https://github.com/mochi165" target="_blank"><i class="fab fa-github-alt"></i></a>
                     </div>
                     <hr class="w-100">
                 </div>
