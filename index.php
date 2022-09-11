@@ -232,7 +232,7 @@
             <div class="row g-4 portfolio-container wow fadeInUp" data-wow-delay="">
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/1.png" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/1.png" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -240,7 +240,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/2.png" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/2.png" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -248,7 +248,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/8.jpg" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/8.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -256,7 +256,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/7.jpg" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/7.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -264,7 +264,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/5.jpg" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/5.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -272,7 +272,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/6.jpg" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/6.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -280,7 +280,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/4.jpg" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/4.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -288,7 +288,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/9.jpg" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/9.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -296,7 +296,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/3.jpg" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -304,7 +304,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/10.jpg" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/10.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -312,7 +312,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/11.jpg" alt="">
+                        <img class="img-fluid" src="img/project-4.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/11.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
@@ -322,7 +322,6 @@
         </div>
     </div>
     <!-- Projects End -->
-
 
     <!-- Contact Start -->
     <div class="container-xxl pb-5" id="contact">
