@@ -77,43 +77,16 @@
                     <h2 class="typed-text-output d-inline"></h2>
                     <div class="typed-text d-none"> Web Developer, UI/UX Designer, Graphic Designer</div>
                     <div class="d-flex align-items-center pt-5">
-                        <a href="" class="btn btn-primary py-3 px-4 me-5">Download CV</a>
-                        <button type="button" class="btn-play" data-bs-toggle="modal"
-                            data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
-                            <span></span>
-                        </button>
-                        <h5 class="ms-4 mb-0 d-none d-sm-block">Play Video</h5>
+                        <a href="https://drive.google.com/file/d/1IWn2jK69dNnjvfG_FKrud3OuevD_FYZW/view?usp=sharing" target="_blank" class="btn btn-primary py-3 px-4 me-5">Download CV</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="img/profile.png" alt="">
+                    <img class="img-fluid" src="img/pp.png" alt="">
                 </div>
             </div>
         </div>
     </div>
     <!-- Header End -->
-
-
-    <!-- Video Modal Start -->
-    <div class="modal modal-video fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content rounded-0">
-                <div class="modal-header">
-                    <h3 class="modal-title" id="exampleModalLabel">Youtube Video</h3>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <!-- 16:9 aspect ratio -->
-                    <div class="ratio ratio-16x9">
-                        <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always"
-                            allow="autoplay"></iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Video Modal End -->
-
 
     <!-- About Start -->
     <div class="container-xxl py-6" id="about">
@@ -261,8 +234,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/1.png" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-1.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/1.png" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -270,8 +242,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/2.png" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-2.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/2.png" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -279,8 +250,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/8.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/8.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -288,8 +258,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/7.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/7.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -297,8 +266,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/5.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/5.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -306,8 +274,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/6.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/6.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -315,8 +282,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/4.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-4.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/4.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -324,8 +290,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/9.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/9.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -333,8 +298,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/3.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-5.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -342,8 +306,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/10.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/10.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
@@ -351,8 +314,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/11.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-6.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/11.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div>
