@@ -77,7 +77,7 @@
                     <h2 class="typed-text-output d-inline"></h2>
                     <div class="typed-text d-none"> Web Developer, UI/UX Designer, Graphic Designer</div>
                     <div class="d-flex align-items-center pt-5">
-                        <a href="https://drive.google.com/file/d/1IWn2jK69dNnjvfG_FKrud3OuevD_FYZW/view?usp=sharing" target="_blank" class="btn btn-primary py-3 px-4 me-5">Download CV</a>
+                        <a href="https://drive.google.com/file/d/15g3oS_6iSywPy-rtNKm5nFgsxAQQFvsy/view?usp=sharing" target="_blank" class="btn btn-primary py-3 px-4 me-5">Download CV</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
