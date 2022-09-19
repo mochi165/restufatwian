@@ -151,7 +151,7 @@
                             </div>
                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
-                                    <h6 class="font-weight-bold">Figma</h6>
+                                    <h6 class="font-weight-bold">search engine optimization (SEO)</h6>
                                 </div>
                                 
                             </div>
