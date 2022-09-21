@@ -143,12 +143,12 @@
                                 </div>
                                 
                             </div>
-                            <div class="skill mb-4">
+<!--                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="font-weight-bold">Node.js</h6>
                                 </div>
                                 
-                            </div>
+                            </div> -->
                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="font-weight-bold">search engine optimization (SEO)</h6>
