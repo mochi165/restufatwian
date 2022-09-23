@@ -135,14 +135,15 @@
                                 </div>
                                 
                             </div>
-                        </div>
-                        <div class="col-md-6">
+
                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="font-weight-bold">PHP</h6>
                                 </div>
                                 
                             </div>
+                        </div>
+                        <div class="col-md-6">
                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="font-weight-bold">CSS/Botstraps</h6>
