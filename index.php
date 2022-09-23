@@ -125,7 +125,7 @@
                             </div>
                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
-                                    <h6 class="font-weight-bold">PHP</h6>
+                                    <h6 class="font-weight-bold">UI/UX Designer</h6>
                                 </div>
                                
                             </div>
@@ -139,19 +139,31 @@
                         <div class="col-md-6">
                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
-                                    <h6 class="font-weight-bold">CSS/Botstrap</h6>
+                                    <h6 class="font-weight-bold">PHP</h6>
                                 </div>
                                 
                             </div>
-<!--                             <div class="skill mb-4">
+                            <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
-                                    <h6 class="font-weight-bold">Node.js</h6>
+                                    <h6 class="font-weight-bold">CSS/Botstraps</h6>
                                 </div>
                                 
-                            </div> -->
+                            </div>
                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="font-weight-bold">search engine optimization (SEO)</h6>
+                                </div>
+                                
+                            </div>
+                            <div class="skill mb-4">
+                                <div class="d-flex justify-content-between">
+                                    <h6 class="font-weight-bold">Microsoft Office</h6>
+                                </div>
+                                
+                            </div>
+                            <div class="skill mb-4">
+                                <div class="d-flex justify-content-between">
+                                    <h6 class="font-weight-bold">Maintenance computer hardware/software</h6>
                                 </div>
                                 
                             </div>
