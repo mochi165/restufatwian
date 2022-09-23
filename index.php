@@ -78,6 +78,9 @@
                     <div class="typed-text d-none"> Web Developer, UI/UX Designer, Graphic Designer</div>
                     <div class="d-flex align-items-center pt-5">
                         <a href="https://drive.google.com/file/d/1fjA0Mhc0itJ-_ICtPeYA-pTD0ouLqCRC/view?usp=sharing" target="_BLANK" class="btn btn-primary py-3 px-4 me-5">Download CV</a>
+                        <button type="button" class="btn btn-primary py-3 px-4 me-5" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                          Download CV
+                        </button>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -500,3 +503,23 @@
 </body>
 
 </html>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Download CV</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <a href="https://drive.google.com/file/d/1DY4TDHBLsyQ1lVruLsKCJxZ3a89mZ9TS/view?usp=sharing" target="_blank" class="btn btn-info py-3 px-4 ">Download CV English</a> | 
+        <a href="https://drive.google.com/file/d/1RM4vIHOIDq-d2QspZa-bM--VorzZM9lS/view?usp=sharing" target="_blank" class="btn btn-danger py-3 px-4 ">Download CV Indonesia</a>
+      </div>
+      <div class="modal-footer"><!-- 
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>
